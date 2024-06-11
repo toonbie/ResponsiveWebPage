@@ -36,6 +36,7 @@
 
 .container p{
     color: rgb(153, 151, 151);
+    
 }
 .bottombox{
     margin-left: 50px;
@@ -70,6 +71,7 @@
 
 .score{
     float:right;
+    color: darkblue;
 }
 .hundred{
     color:rgba(143, 134, 134, 0.984);
