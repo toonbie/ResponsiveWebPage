@@ -1,0 +1,38 @@
+.container{
+    display:flex;
+    flex-direction: column;
+}
+.topbox{
+    margin-top: 0px;
+    padding-top: 30px;
+    border-radius: 0 0 25px 25px;
+    background-image: linear-gradient(#721bfe, darkblue);
+    text-align: center;
+}
+.topbox h1{
+    color: white;
+}
+
+.topbox h3{
+    color:white;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.circle{
+    align-content:center ;
+    height:115px;
+    width: 115px;
+    border-radius: 50%;
+    background-image: linear-gradient(#721bfe, darkblue);
+    border-color:  black;
+    border-width: thin;
+    display:inline-block;
+    border-style: groove;
+    margin-bottom: 30px;
+}
+
+.container p{
+    color: rgb(153, 151, 151);
+}
