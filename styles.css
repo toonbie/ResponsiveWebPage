@@ -8,6 +8,7 @@
     border-radius: 0 0 25px 25px;
     background-image: linear-gradient(#721bfe, darkblue);
     text-align: center;
+    padding-bottom: 20px;
 }
 .topbox h1{
     color: white;
@@ -35,4 +36,49 @@
 
 .container p{
     color: rgb(153, 151, 151);
+}
+.bottombox{
+    margin-left: 50px;
+    margin-right: 50px;    
+}
+.bottombox h4{
+    color: darkblue;
+}
+
+.roundedbox{
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+.red{
+    background-color: rgba(240, 128, 128, 0.781);
+    color: lightcoral;
+}
+.yellow{
+    background-color: rgba(251, 251, 0, 0.588) ;
+    color: yellowgreen;
+}
+.green{
+    background-color: rgba(144, 238, 144, 0.743);
+    color: lightseagreen;
+}
+.blue{
+    background-color: rgba(135, 206, 250, 0.83);
+    color: blue;
+}
+
+.score{
+    float:right;
+}
+.hundred{
+    color:rgba(143, 134, 134, 0.984);
+}
+.continue{
+    width:100%;
+    height: 40px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    border-color: black;
 }
